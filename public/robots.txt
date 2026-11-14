@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /
+
+# Major AI & Answer Engine Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+Sitemap: /sitemap.xml
+Llms-Txt: /llms.txt
+Llms-Full-Txt: /llms-full.txt

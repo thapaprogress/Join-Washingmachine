@@ -1,0 +1,24 @@
+# Join Electronic Center — Washing Machine Showroom (Kathmandu, Nepal)
+
+> Official Kathmandu multi-brand washing machine showcase by Join Electronic Center, Samakhushi Chowk (Tokha Road), Kathmandu 44600, Nepal. Transparent NPR showroom pricing, 0% interest EMI, Sata-Pata old appliance exchange up to Rs. 8,000, and free same-day delivery inside Kathmandu Valley.
+
+## Showroom Details
+- **Business Name**: Join Electronic Center (Operating since 2004)
+- **Address**: Samakhushi Chowk (Tokha Road), Kathmandu 44600, Bagmati Province, Nepal
+- **WhatsApp & Order Hotline**: +977 9851045662
+- **Service Areas**: Kathmandu Ring Road, Lalitpur (Patan), Bhaktapur, Kirtipur (Free Delivery) & Outside Valley Insured Highway Cargo
+- **Financing**: 0% Interest EMI (6, 9, 12 months) including non-credit-card citizenship financing options
+- **Exchange Program**: Sata-Pata Old Appliance Exchange (Rs. 4,500 semi-auto / Rs. 6,500 top-load / Rs. 8,000 front-load or TV bonus)
+
+## Key Pages & Sections
+- [Samsung Washing Machines in Nepal](/#samsung): 6 models from Rs. 25,990 to Rs. 1,51,990 (EcoBubble, Bespoke AI Front Load, Washer-Dryer Combo, Top Load, Twin-Tub) with up to 20-year Digital Inverter motor warranty.
+- [Himstar Washing Machines in Nepal](/#himstar): 4 front-load models from Rs. 49,290 to Rs. 99,999 with Direct Drive / BLDC inverter motors and anti-rat base guards.
+- [Videocon Washing Machines in Nepal](/#videocon): 4 models from Rs. 19,990 to Rs. 70,000 covering 90°C Heat Wash Front Load, AI Diamond Tub Top Load, and Twin-Tub washers.
+- [Panasonic Washing Machines in Nepal](/#panasonic): 2 models from Rs. 45,990 to Rs. 78,990 featuring StainMaster+ hot-steam sanitization and Active Foam systems.
+- [Brand-vs-Brand Scroll Comparison](/#compare): Flagship side-by-side comparison across Samsung, Himstar, Panasonic, and Videocon.
+- [Interactive Model Comparator](/#compare-matrix): Compare any 2 of all 16 showroom models by NPR price, 0% EMI, capacity, RPM, steam tech, and warranty.
+- [0% EMI, Trade-In & Valley Delivery Configurator](/#order): Estimate net payable after Sata-Pata exchange and monthly installment.
+- [Kathmandu Washing Machine Buying FAQ](/#faq): Answers on Kathmandu hard water scaling, front-load vs top-load water pressure, and 0% EMI without credit card.
+
+## Extended Context
+- [Complete 16-Model Spec Table & AEO Q&A](/llms-full.txt): Full SKU pricing, warranty terms, and technical comparison matrix for answer engines.
